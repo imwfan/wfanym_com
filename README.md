@@ -13,9 +13,17 @@
 #### 毕业设计（Java系统）
 所有都包含**源码+数据库+PPT+万字文档+可远程配置+售后答疑**，点击可查看详情
 
+- [全新AI占卜算卦系统源码](https://www.wfanym.com/1.html)
 - [Java毕业设计-基于SpringBoot开发的医护人员排班系统-毕业论文（附毕设源代码）](https://www.wfanym.com/394.html)	
 - [Java毕业设计-基于SpringBoot开发的知识管理系统-毕业论文（附毕设源代码）](https://www.wfanym.com/339.html)	
 - [基于SpringBoot+DeepSeek的智慧医药系统](https://www.wfanym.com/319.html)	
-
+- [基于SpringBoot+Vue的图书个性化推荐系统](https://www.wfanym.com/66.html)	
+- [基于SpringBoot+Vue的时装购物系统](https://www.wfanym.com/68.html)	
+- [基于SpringBoot+Vue的医护人员排班系统](https://www.wfanym.com/64.html)
+- [基于SpringBoot+Vue的旅游网站系统](https://www.wfanym.com/78.html)
+- [大学生租房平台管理系统](https://www.wfanym.com/72.html)
+- [基于SpringBoot的房产销售系统](https://www.wfanym.com/80.html)
+- [基于SpringBoot+Vue的微服务在线教育系统](https://www.wfanym.com/106.html)
+- [基于SpringBoot+Vue的课程答疑系统](https://www.wfanym.com/116.html)
 
 
